@@ -1,4 +1,4 @@
-# Contributors
+# Collaborator
 | Name    | Profile                          |
 |---------|----------------------------------------|
 | 장인석 | [flalini](https://github.com/flalini) |
