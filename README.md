@@ -1,4 +1,4 @@
-# Collaborator
+# Collaborator 2023.05 ~ 2023.07
 | Name    | Profile                          |
 |---------|----------------------------------------|
 | 장인석 | [flalini](https://github.com/flalini) |
